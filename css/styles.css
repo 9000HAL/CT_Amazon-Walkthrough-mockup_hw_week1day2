@@ -1,7 +1,13 @@
+#amazon{
+    width: 400;
+    height: 40px;
+    font-size: 15px;
 
-
-
-
+background: linear-gradient(#f7f7f7, #F0C15D);
+border: 0.5px   solidcolor #f7f7f7
+border-radius: 5px;
+margin-top: 10px;
+}
 
 
   
