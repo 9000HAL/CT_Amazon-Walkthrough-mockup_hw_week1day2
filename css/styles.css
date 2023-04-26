@@ -53,7 +53,7 @@ img{
 }
 
 h2 {
-   color: silver;
+   color: black;
    font-weight: normal;
    letter-spacing: 1px;
    font-size: 10px;
@@ -92,5 +92,60 @@ h2 span {
   
 
 
+
+
+/*------footer-----------------*/
+
+#footer{
+    border: 0;
+     height: 0;
+     border-top: 1px solid rgba(0, 0, 0, 0.1);
+     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+     margin-top: 30px;
+  }
+  
+  
+  
+  a:link{
+    font-size: 12px;
+    /*margin: 0 10px 0px 10px;*/
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0066c0
+  }
+  a:hover{
+    text-decoration: underline;
+    color: orangergb(230, 161, 28);
+  }
+  
+  a:visited{
+    color: #0066c0;
+  }
+  
+   .links{
+    font-size: 10px;
+    text-align: center;
+    padding-left: 15px;
+  }
+  
+  #password{
+    margin-left: 125px;
+  }
+  #special{
+    font-size: 11px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
