@@ -1,0 +1,192 @@
+/* Set margin and padding to 0 for the entire page */
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set background color to light gray */
+  body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Set font family and size for the entire page */
+  body, input {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set font size and color for all headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 28px;
+    color: #333333;
+  }
+  
+  /* Add glowing effect to the main headline */
+  h1 {
+    text-align: center;
+    text-shadow: 0px 0px 10px #FFFFFF;
+  }
+  
+  nav {
+    background-color: #333; /* Sets the background color of the nav bar to dark grey */
+    width: 100%; /* Makes the nav bar span the whole width of the webpage */
+  }
+  
+  ul {
+    list-style-type: none; /* Removes the default bullet points from the unordered list */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left; /* Floats the list items to the left */
+  }
+  
+  li a {
+    display: block;
+    color: white; /* Sets the color of the text in the list items to white */
+    text-align: center;
+    padding: 7px 8px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: darkblue; /* Sets the background color of the list items when hovering over them to dark grey */
+  }
+  
+  .social {
+    float: right; /* Floats the social media icon to the right */
+  }
+  
+  .social a img {
+    height: 36px; /* Sets the height of the social media icon */
+    width: 36px; /* Sets the width of the social media icon */
+    padding: 5px; /* Adds padding around the social media icon */
+  }
+  
+  
+  /* Create a container for the content boxes */
+  .content {
+    display:flex;
+    
+  }
+  
+  /* Set the width of the left content boxes to 1/2 */
+  .content-box1 {
+    width: 40%;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 4px 4px 10px #888888;
+    position: absolute;
+    left: 25px; 
+    top: 150px;
+  }
+
+  .content-box2 {
+    width: 25%;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 4px 4px 10px #888888;
+    position: absolute;
+    left: 25px; 
+    top: 475px;
+  }
+
+
+  
+  /* Set the width of the right content boxes to 1/2 */
+  .content-box3 {
+    width: 45%;
+    background-color: #FFFFFF;
+    padding: 10px;
+    box-shadow: 4px 4px 10px #888888;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+  }
+
+    
+  .content-box4 {
+    width: 25%;
+    background-color: #FFFFFF;
+    padding: 5px;
+    box-shadow: 4px 4px 10px #888888;
+    position: absolute;
+    right: 0px;
+    top: 450px;
+  }
+
+  .content-box5 {
+    width: 45%;
+    background-color: #FFFFFF;
+    padding: 10px;
+    box-shadow: 4px 4px 10px #888888;
+    position: absolute;
+    right: 50px;
+    top: 975px;
+  }
+
+
+
+  
+  /* Add a border between the left and right content boxes */
+  .left-box, .right-box {
+    border-right: 25px solid #CCCCCC;
+  }
+  
+  /* Add spacing between the content boxes */
+  .content-box {
+    margin-top: 100px;
+    
+
+  }
+  
+  /* Style the images in the content boxes */
+  .content-box img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the form inputs */
+  form input[type=text], form textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+  }
+  
+  /* Style the form submit button */
+  form input[type=submit] {
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  /* Style the social media buttons */
+  .social-media img {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  /* Add hover effect to the social media buttons */
+  .social-media img:hover {
+    opacity: 0.8;
+  }
+  
+
+
+
+
+
+
+  
