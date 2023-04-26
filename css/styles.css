@@ -1,13 +1,34 @@
 #amazon{
-    width: 400;
-    height: 40px;
-    font-size: 15px;
+    width: 400px;
+    height:40px;
+    font-size:15px;
+    background: linear-gradient(#f7f7f7, #F0C15D);
+    border: 0.5px solidcolor #f7f7f7;
+    border-radius:5px;
+    margin-top: 10px;
+  }
 
-background: linear-gradient(#f7f7f7, #F0C15D);
-border: 0.5px   solidcolor #f7f7f7
-border-radius: 5px;
-margin-top: 10px;
+  #amazon:hover{
+    background: linear-gradient(#f7f7f7, #F0C15D)
+  }
+
+  body {
+    font-size: 15px;
+    line-height: 20px;
+    color: black;
+    font-family: Arial,sans-serif;
 }
 
+img{
+    margin: auto;
+    display: block;
+  }
+
+
+  }
 
   
+
+
+
+
