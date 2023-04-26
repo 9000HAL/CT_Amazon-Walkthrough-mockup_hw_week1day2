@@ -1,7 +1,7 @@
 # bootstrap-boilerplate
-(from: mobile friendly day3 daily challenge)
-What the project does: completes take home challenge day 3 MOBILE FRIENDLY
-Why the project is useful: learningg README.me documentation
+(from: CT_week 1 day 2 homework day3 daily thieves-118)
+What the project does: completes the homework for tues.apr.25 2023
+Why the project is useful: learningg amazon mockup/flexbox
 How users can get started with the project: create a branch/create an issue
 Where users can get help with your project: gsanchezscs@gmail.com
 Who maintains and contributes to the project: https://github.com/9000HAL
