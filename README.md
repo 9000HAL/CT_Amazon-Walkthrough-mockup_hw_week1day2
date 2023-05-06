@@ -1,4 +1,5 @@
-# bootstrap-boilerplate
+9000HAL/CT_Amazon-Walkthrough-mockup_hw_week1day2
+
 (from: CT_week 1 day 2 homework day3 daily thieves-118)
 What the project does: completes the homework for tues.apr.25 2023
 Why the project is useful: learning hot to re-create/generate "sign up/in form"
