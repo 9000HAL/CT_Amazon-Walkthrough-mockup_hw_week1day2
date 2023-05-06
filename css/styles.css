@@ -73,9 +73,10 @@ h2 span {
 
 #createAccount{
   margin-top: 25px;
+
 }
 
-#newAccount{
+.newAccount{
   background: linear-gradient(whitesmoke, white);
   margin-top: 10px;
   margin-bottom: 20px;
