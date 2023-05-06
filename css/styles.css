@@ -6,6 +6,8 @@
     border: 5px solidcolor #f7f7f7;
     border-radius:5px;
     margin-top: 5px;
+    font-weight:lighter;
+    width: 95%;
   }
 
   #amazon:hover{
@@ -17,15 +19,18 @@
     line-height: 20px;
     color: black;
     font-family: Arial,sans-serif;
+    font-weight:lighter;
+    
 }
 
 img{
     margin: auto;
-    display: block
-    
+    display: block;
+  
   }
 
   #SignBorder{
+    font-weight:lighter;
     position: static;
     margin: 0 auto;
     border-color: whitesmoke;
@@ -33,24 +38,29 @@ img{
     border-radius: 10px;
     width: 400px;
     padding-left: 25px;
+
   }
   
   input{
     border-left-color: whitesmoke;
     border-right-color: whitesmoke;
     border-radius: 5px;
-    border-width: 0.5px;
+    border-width: 1px;
     height: 25px;
-    width: 350px;
+    width: 300px;
     margin-bottom: 25px;
+    font-weight:lighter;
+    width: 93%;
+
   }
 
 
 
 
-#SignInTxt{
+.SignText{
   font-family: Arial, sans-serif;
   font-size: 25px;
+  font-weight:lighter;
 }
 
 h2 {
@@ -78,24 +88,25 @@ h2 span {
 
 .CreateAccount{
   margin-top: 25px;
-  
+
 
 }
 
 #NewAccount{
-  background: linear-gradient(whitesmoke, white);
+  background: linear-gradient(lightgray, white);
   margin-top: 10px;
   margin-bottom: 20px;
-  margin-left: 300px;
-  width:325px;
-  height: 30px;
+  margin-left: 250px;
+  width:425px;
+  height: 40px;
   font-size:15px;
   border: 0.5px solid #aaaaaa;
   border-radius:5px;
+  font-weight:lighter;
 }
 
 .newAccount:hover{
-  background: linear-gradient(whitesmoke, white);
+  background: linear-gradient(gray, gray);
 }
   
 
@@ -107,7 +118,7 @@ h2 span {
 #footer{
     border: 0;
      height: 0;
-     border-top: 1px solid rgba(0, 0, 0, 0.1);
+     border-top: 5px solid rgba(0, 0, 0, 0.1);
      border-bottom: 1px solid rgba(255, 255, 255, 0.3);
      margin-top: 30px;
   }
