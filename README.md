@@ -1,3 +1,5 @@
+--->Per DK notes: Ver.2 submitted sat.may.6 8PM **************************
+
 9000HAL/CT_Amazon-Walkthrough-mockup_hw_week1day2
 
 (from: CT_week 1 day 2 homework day3 daily thieves-118)
