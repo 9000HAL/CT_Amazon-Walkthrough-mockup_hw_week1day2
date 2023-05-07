@@ -75,14 +75,14 @@ h2 {
    line-height: 0.5em;
    margin: 10px 0 10px;
    margin-bottom: 0px;
-   margin-left: 300px;
+   margin-left: 800px;
 
 }
 
 h2 span {
     background: whitesmoke;
     padding: 0 10px;
-
+    
     
 }
 
@@ -96,7 +96,7 @@ h2 span {
   background: linear-gradient(lightgray, white);
   margin-top: 10px;
   margin-bottom: 20px;
-  margin-left: 250px;
+  margin-left: 750px;
   width:425px;
   height: 40px;
   font-size:15px;
